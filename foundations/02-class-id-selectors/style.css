@@ -1,0 +1,18 @@
+.odd-class {
+    background-color: pink;
+}
+
+.odd-class:nth-of-type(2) {
+    font-size: 25px;
+}
+
+#num-two {
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#num-four {
+    font-weight: bold;
+    font-size: 25px;
+}
